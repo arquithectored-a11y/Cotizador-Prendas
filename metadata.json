@@ -1,0 +1,7 @@
+{
+  "name": "cotizador prendas",
+  "description": "A comprehensive dashboard for managing garment production costs and generating quotes. It includes features for managing materials, supplies, labor, clients, and system settings like taxes and profit margins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
